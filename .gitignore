@@ -1,0 +1,12 @@
+# استثناء الملفات الحساسة والتنفيذية
+firebase_key.json
+rawaat-almazaq-firebase-adminsdk-*.json
+config.json
+*.exe
+
+# استثناء مجلدات السجلات
+logs/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
