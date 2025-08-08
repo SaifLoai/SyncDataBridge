@@ -1,5 +1,3 @@
-# utils/diff_checker.py
-
 from typing import List, Dict, Any
 
 class DiffChecker:
